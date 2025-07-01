@@ -1,7 +1,10 @@
 Hệ thống mã hóa ngân hàng - Game Bảo mật
+
 Trò chơi mô phỏng hệ thống bảo mật ngân hàng với các thuật toán mã hóa AES, RSA và SHA.
 
+
 Tính năng
+
 Hệ thống đăng nhập và đăng ký người dùng
 Lưu trữ tiến trình và điểm số của người chơi
 Nhiều cấp độ khó tăng dần
